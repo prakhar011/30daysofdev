@@ -1,7 +1,5 @@
 # What is virtuallisation 
 
-source: [virtuallisation](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
-=======
 ## source: 
 [virtualisation](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
 
