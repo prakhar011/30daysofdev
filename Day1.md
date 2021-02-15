@@ -18,3 +18,5 @@
 ## Diff. between kernel and terminal
 #### Every OS has a kernal . The kernel is the bridge that connect between hardware and program .It opens with OS and close during shutdown wheras <br/>
 #### a terminal application opens a window where the user can type in commands for the shell to interpret into binary language for the kernel.
+
+[kernel](https://www.kernel.org/doc/) docs to go through for detail in deep  
