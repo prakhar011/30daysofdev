@@ -26,8 +26,22 @@
 --------------------------------------------------------------------------------
 # week2
 
-##Day 7
+## Day 7
 
 #### what is sudo and superuser?
 
+## Day8
 
+#### How to navigate in command line?
+
+## Day9
+
+#### file permision
+
+## Day10
+
+#### basic commands.
+
+## Day11
+
+#### exploaring more vim commands 
