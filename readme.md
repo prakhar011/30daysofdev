@@ -44,4 +44,9 @@
 
 ## Day11
 
-#### exploaring more vim commands 
+#### exploaring more vim commands
+
+## Day12 
+
+#### Shell scripting 
+
