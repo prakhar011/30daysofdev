@@ -26,3 +26,15 @@
 ####    Solidity provides some native units for dealing with time.
 
 #### The variable now will return the current unix timestamp of the latest block (the number of seconds that have passed since January 1st 1970). The unix time as I write this is 1515527488.
+
+#### in public function look for how user might exploit the function  
+## Day9
+#### [Loom Network](https://coinswitch.co/info/loom-network/what-is-loom-network):Loom Network is a blockchain-based platform designed with large-scale social apps and games in mind. The platform has been developed with the idea of proving that the applications of blockchain technology aren’t limited to transactions.
+
+## Mapping
+```
+// A mapping to store a user's age:
+mapping (uint => uint) public age;
+```
+## calldata 
+#### it is similar to memory but it's only available in external
