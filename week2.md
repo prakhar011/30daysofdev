@@ -17,7 +17,9 @@ mostly sudo is sugested to use in ubuntu and for other linux distribution su is 
 
 #### shell scripting: It is collection several command which are used again and again they are combine into script to reduce programming efforts.
 
-[shell script file]()
+[shell script file](https://github.com/devratapuri/30daysofdev/tree/master/shellscripts)
 
+## Day 13 
 
+#### revising what i have done uptil now 
 
