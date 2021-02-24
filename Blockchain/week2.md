@@ -38,3 +38,12 @@ mapping (uint => uint) public age;
 ```
 ## calldata 
 #### it is similar to memory but it's only available in external
+
+## View function 
+#Shell### view functions don't cost any gas when they're called externally by a user.This is because view functions don't actually change anything on the blockchain – they only read the data. So marking a function with view tells web3.js that it only needs to query your local Ethereum node to run the function, and it doesn't actually have to create a transaction on the blockchain
+
+#Day10
+
+
+
+
