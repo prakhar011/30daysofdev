@@ -41,3 +41,5 @@
 
 #### To assign the result of a mathematical equation to a variable, you have to use the backtick character to extract the output from the expr command:
 #### bc command open calculator in bash to exit type quit 
+
+

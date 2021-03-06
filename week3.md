@@ -33,6 +33,10 @@ $ chmod u-x myfile
 $ chmod ug+w
 \\ add multiple permission bits on file 
 ```
+#### '$ sudo chown patty myfile' this command will set owner of file to patty
+#### '$ sudo chgrp whales myfile' this command will set the group of myfiles to whales 
+#### '$ sudo chown patty:whales myfile' If you add a colon and groupname after the user you can set both the user and group at the same time. 
+
 ## Networking Commands
 
 #### [route](https://www.geeksforgeeks.org/route-command-in-linux-with-examples/)
@@ -42,10 +46,19 @@ $ chmod ug+w
 
 ## what is LVM?
 
+[Blog](https://www.digitalocean.com/community/tutorials/an-introduction-to-lvm-concepts-terminology-and-operations#:~:text=LVM%2C%20or%20Logical%20Vo)
 #### 
 
-#Day 16 
+# Day 16 
 
-#### Linux file structure 
+## Linux file structure 
+#### [Blog](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)
+# Day 17 
 
+#### installed apache and used kill command 
+#### read about package manager 
+# Day 18 
 
+## SSH
+
+####
