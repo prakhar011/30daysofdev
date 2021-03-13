@@ -61,4 +61,28 @@ $ chmod ug+w
 
 ## SSH
 
-####
+## DNS 
+
+#### Domain name Registrar :  A domain name registrar is a business that handles the reservation of domain names as well as the assignment of IP addresses for those domain names
+#### Registry : they manage and maintain domain name 
+####are businesses that provide domain name registration services to the public but are not accredited registrars. Resellers buy .au domain names and manage domain name records for their customers through an interface with an accredited .au registrar. Resellers do not have direct access to the .au registry.
+
+#### for in more detail read following [Blog](https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name-registrar/)
+#### [DDNS](https://www.cloudflare.com/learning/dns/glossary/dynamic-dns/)
+#### [blog](https://blog.nameshield.com/blog/2020/04/08/dns-on-blockchain-the-next-evolution-of-domain-names/#:~:text=The%20data%20included%20in%20the,of%20the%20DNS%20on%20Blockchain.)
+
+
+## Hosting on Apache2
+
+1. move your website to /var/www/html 
+#### syntax :
+```
+sudo mv foldername/ /var/www/html
+```
+2. use following command to start 
+
+```
+sudo service start apache2
+```
+3. now on chrome address bar type following 
+####http://127.0.0.1/foldername/
